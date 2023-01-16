@@ -11686,3 +11686,11 @@ fieldset:disabled .btn {
   color: var(--bs-gray-700);
 }
 
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  color: var(--bs-gray-700);
+}
